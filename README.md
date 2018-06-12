@@ -19,6 +19,6 @@ The spin model checker must be installed first, cf. http://spinroot.com/spin/wha
 Then, in a text editor any file of the `examples/` directory can be edited.
 
 
-=====
+----
 PiPromela is Copyright (C) 2018 Frédéric Peschanski under the MIT License
 
