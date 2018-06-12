@@ -11,7 +11,7 @@
  * process definitions part, before the initialization.
  */
 
-proctype Observer() {
+proctype PiObserver() {
 endOk:
   do
   // silent step

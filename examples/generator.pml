@@ -59,7 +59,7 @@ init {
   // run processes
   atomic {
     run P();
-    run Observer();
+    run PiObserver();
   }
 }
 
